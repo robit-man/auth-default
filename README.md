@@ -1,4 +1,4 @@
-# yt
+# Generic Auth App
 
 ## Project setup
 ```
