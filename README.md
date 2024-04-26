@@ -1,4 +1,4 @@
-# Generic Auth App
+# Generic Vue + Firebase Auth App
 
 ## Project setup
 ```
